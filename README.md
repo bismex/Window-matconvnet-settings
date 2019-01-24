@@ -14,7 +14,7 @@
 ---
 
 - download matconvnet [[link](http://www.vlfeat.org/matconvnet/)]
-- download cuda9.0 [[link](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exenetwork)]
+- download cuda9.0 [[link](https://developer.nvidia.com/cuda-90-download-archive)]
   - ex: cuda_9.0.176_win10_network
   - default settings
 - download cudnn7.4.2 for CUDA 9.0 [[link](https://developer.nvidia.com/rdp/cudnn-download)]
