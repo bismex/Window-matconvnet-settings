@@ -31,6 +31,7 @@
     - `Variable Value: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0`
 - Install and conpiling the library [[link](http://www.vlfeat.org/matconvnet/install/)]
   - open MATLAB and go to matconvnet folder
-  - mex -setup (set VS2013)
-  - vl_testnn('gpu', true)
+  - `mex -setup (set VS2013)`
+  - `addpath(genpath('.'))`
+  - `vl_testnn('gpu', true)`
 
