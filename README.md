@@ -33,5 +33,5 @@
   - open MATLAB and go to matconvnet folder
   - `mex -setup (set VS2013)`
   - `addpath(genpath('.'))`
-  - `vl_compilenn('gpu', true)`
+  - `vl_compilenn('enableGpu', true)`
 
